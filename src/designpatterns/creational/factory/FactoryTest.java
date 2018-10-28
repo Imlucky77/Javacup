@@ -1,6 +1,7 @@
 package designpatterns.creational.factory;
 
-public class Main {
+// Customer
+public class FactoryTest {
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();
 
