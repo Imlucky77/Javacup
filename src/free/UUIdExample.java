@@ -1,4 +1,4 @@
-package testjava;
+package free;
 
 import java.util.UUID;
 
