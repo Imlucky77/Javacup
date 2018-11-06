@@ -1,4 +1,4 @@
-package hackerrank.thirtydaysofcode;
+package hackerrank.java.Day08;
 
 import java.util.HashMap;
 import java.util.Map;
