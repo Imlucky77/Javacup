@@ -9,7 +9,7 @@ class Student extends Person {
      *   @param firstName - A string denoting the Person's first name.
      *   @param lastName - A string denoting the Person's last name.
      *   @param id - An integer denoting the Person's ID number.
-     *   @param scores - An array of integers denoting the Person's test scores.
+     *   @param scores - An array of integers denoting the Person's StaticSample scores.
      */
     // Write your constructor here
     public Student(String firstName, String lastName, int id, int[] scores) {
