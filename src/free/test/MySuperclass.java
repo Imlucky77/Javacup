@@ -1,6 +1,4 @@
-package free;
-
-import java.text.NumberFormat;
+package free.test;
 
 // Superclass
 public class MySuperclass {

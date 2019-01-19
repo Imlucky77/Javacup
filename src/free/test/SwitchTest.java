@@ -1,4 +1,4 @@
-package free;
+package free.test;
 
 import java.util.Scanner;
 

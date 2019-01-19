@@ -1,4 +1,4 @@
-package free;
+package free.test;
 
 public class StaticSample {
     int a = 40;
