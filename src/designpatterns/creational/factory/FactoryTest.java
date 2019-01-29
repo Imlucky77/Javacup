@@ -1,6 +1,6 @@
 package designpatterns.creational.factory;
 
-// Customer
+// CreditLimits
 public class FactoryTest {
     public static void main(String[] args) {
         ShapeFactory shapeFactory = new ShapeFactory();
