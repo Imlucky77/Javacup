@@ -1,5 +1,10 @@
 package howtoprogram.Chapter04.exercises.exercise_23;
 
+/**
+ * @author imlucky
+ * @Created: 2019/01/29
+ * @Exercise: 4.23
+ */
 public class FindTwoLargestNumber {
     private int firstNum;
     private int secondNum;

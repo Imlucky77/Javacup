@@ -1,7 +1,5 @@
 package howtoprogram.Chapter04.exercises.exercise_22;
 
-import javax.sound.midi.Soundbank;
-
 /**
  * @author imlucky
  * @Created: 2019/01/29
