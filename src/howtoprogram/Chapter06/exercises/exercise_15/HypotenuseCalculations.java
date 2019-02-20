@@ -16,7 +16,6 @@ public class HypotenuseCalculations {
         System.out.println("TRIANGLE THREE");
         System.out.printf("side1: %.2f\tside2: %.2f\thypotenuse: %.2f%n",
                 8.0, 15.0, hypotenuse(8.0, 15.0));
-
     }
 
     public static double hypotenuse(double side1, double side2) {

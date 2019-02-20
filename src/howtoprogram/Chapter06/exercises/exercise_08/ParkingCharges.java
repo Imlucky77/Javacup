@@ -1,4 +1,4 @@
-package howtoprogram.Chapter06.exercises.exercise_8;
+package howtoprogram.Chapter06.exercises.exercise_08;
 
 import java.util.Scanner;
 
