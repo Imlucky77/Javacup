@@ -95,7 +95,7 @@ public class GradeBookTwoDimensional {
         System.out.print(" ");
 
         for (int test = 0; test < grades[0].length; test++) {
-            System.out.printf("\t\t\t\tTest %d ", test + 1);
+            System.out.printf("\t\t\t\tPolymorphismTest %d ", test + 1);
         }
 
         System.out.println("Average");
