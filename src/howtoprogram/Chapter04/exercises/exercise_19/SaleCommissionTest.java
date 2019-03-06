@@ -17,7 +17,7 @@ public class SaleCommissionTest {
         if (saleCommission.getSalesTotal() > 0) {
             System.out.println();
             System.out.printf("Weekly sales total: %.2f%n", saleCommission.getSalesTotal());
-            System.out.printf("Weekly earnings: %.2f%n", saleCommission.calculateCommission());
+            System.out.printf("Weekly getPaymentAmount: %.2f%n", saleCommission.calculateCommission());
         }
 
     }

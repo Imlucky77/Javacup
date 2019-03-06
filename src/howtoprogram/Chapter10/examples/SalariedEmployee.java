@@ -4,6 +4,7 @@ package howtoprogram.Chapter10.examples;
  * @author imlucky
  * @Created: 2019/03/04
  * @Examples: Fig. 10.5: SalariedEmployee.java
+ * @Examples: Fig. 10.14: SalariedEmployee.java
  */
 public class SalariedEmployee extends Employee {
 
@@ -30,7 +31,7 @@ public class SalariedEmployee extends Employee {
     }
 
     @Override
-    public double earnings() {
+    public double getPaymentAmount() {
         return getWeeklySalary();
     }
 

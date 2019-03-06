@@ -4,8 +4,9 @@ package howtoprogram.Chapter10.examples;
  * @author imlucky
  * @Created: 2019/03/04
  * @Examples: Fig. 10.4: Employee.java
+ * @Examples: Fig. 10.13: Employee.java
  */
-public abstract class Employee {
+public abstract class Employee implements Payable {
     private final String firstName;
     private final String lastName;
     private final String socialSecurityNumber;
@@ -28,7 +29,7 @@ public abstract class Employee {
         return socialSecurityNumber;
     }
 
-    public abstract double earnings();
+    public abstract double getPaymentAmount();
 
     @Override
     public String toString() {
