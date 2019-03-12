@@ -1,5 +1,10 @@
 package howtoprogram.Chapter11.examples;
 
+/**
+ * @author imlucky
+ * @Created: 2019/03/05
+ * @Examples: Fig. 11.5: UsingExceptions.java
+ */
 public class UsingExceptions {
     public static void main(String[] args) {
         try {

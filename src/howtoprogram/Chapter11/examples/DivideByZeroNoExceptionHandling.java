@@ -3,6 +3,11 @@ package howtoprogram.Chapter11.examples;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * @author imlucky
+ * @Created: 2019/03/05
+ * @Examples: Fig. 11.3: DivideByZeroNoExceptionHandling.java
+ */
 public class DivideByZeroNoExceptionHandling {
     public static int quotient(int numerator, int denominator) throws ArithmeticException {
         return numerator / denominator;
