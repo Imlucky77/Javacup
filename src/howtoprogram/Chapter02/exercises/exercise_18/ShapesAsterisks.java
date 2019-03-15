@@ -20,15 +20,15 @@ public class ShapesAsterisks {
 
         );
 /*
-        System.out.print("*********      ***        *          * \n");
-        System.out.print("*       *    *     *     ***        * * \n");
-        System.out.print("*       *   *       *   *****      *   * \n");
-        System.out.print("*       *   *       *     *       *     * \n");
-        System.out.print("*       *   *       *     *      *       * \n");
-        System.out.print("*       *   *       *     *       *     * \n");
-        System.out.print("*       *   *       *     *        *   * \n");
-        System.out.print("*       *    *     *      *         * * \n");
-        System.out.print("*********      ***        *          * \n");
+        System.output.print("*********      ***        *          * \n");
+        System.output.print("*       *    *     *     ***        * * \n");
+        System.output.print("*       *   *       *   *****      *   * \n");
+        System.output.print("*       *   *       *     *       *     * \n");
+        System.output.print("*       *   *       *     *      *       * \n");
+        System.output.print("*       *   *       *     *       *     * \n");
+        System.output.print("*       *   *       *     *        *   * \n");
+        System.output.print("*       *    *     *      *         * * \n");
+        System.output.print("*********      ***        *          * \n");
         */
     }
 }

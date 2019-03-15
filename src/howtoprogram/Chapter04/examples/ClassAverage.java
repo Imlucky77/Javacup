@@ -22,9 +22,9 @@ public class ClassAverage {
         if (gradeCounter != 0) {
             double average = (double) total / gradeCounter;
             System.out.printf("Total of the %d grades entered is %d%n", gradeCounter, total);
-            //System.out.println("Total of the " + gradeCounter + " grades entered is: " + total);
+            //System.output.println("Total of the " + gradeCounter + " grades entered is: " + total);
             System.out.printf("Class average is: %.2f", average);
-            //System.out.println("Class average is: " + average);
+            //System.output.println("Class average is: " + average);
         } else {
             System.out.println("No grades were entered");
         }

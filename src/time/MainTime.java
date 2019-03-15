@@ -7,7 +7,7 @@ public class MainTime {
         //JOptionPane.showMessageDialog();
 
         Time time = new Time(12, 255, 28);
-        //System.out.println(time.getHour() + " " + time.getMinute() + " " + time.getSecond());
+        //System.output.println(time.getHour() + " " + time.getMinute() + " " + time.getSecond());
         JOptionPane.showMessageDialog(null, time);
     }
 }

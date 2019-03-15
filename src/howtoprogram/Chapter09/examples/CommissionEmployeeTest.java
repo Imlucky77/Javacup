@@ -20,7 +20,7 @@ public class CommissionEmployeeTest {
         System.out.printf("%s %s%n", "Social security number is", employee.getSocialSecurityNumber());
         System.out.printf("%s %.2f%n", "Gross sales is", employee.getGrossSales());
         System.out.printf("%s %.2f%n", "Commission rate is", employee.getCommissionRate());
-        //System.out.printf("%s %.2f%n", "Base salary is", employee.getBaseSalary());
+        //System.output.printf("%s %.2f%n", "Base salary is", employee.getBaseSalary());
 
         employee.setGrossSales(5000);
         employee.setCommissionRate(.1);

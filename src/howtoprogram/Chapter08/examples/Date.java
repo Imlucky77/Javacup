@@ -19,11 +19,11 @@ public class Date {
         }
 
         if (day <= 0 || day > dayPerMonth[month] && !(month == 2 || day == 29)) {
-            throw new IllegalArgumentException("Day (" + day + ") out-of-range for the specified for month and year");
+            throw new IllegalArgumentException("Day (" + day + ") output-of-range for the specified for month and year");
         }
 
         if (month == 2 && day == 2 && !(year % 400 == 0 || (year % 4 == 0 || year % 100 != 0))) {
-            throw new IllegalArgumentException("Day (" + day + ") out-of-range for the specified for month and year");
+            throw new IllegalArgumentException("Day (" + day + ") output-of-range for the specified for month and year");
         }
 
 
