@@ -5,7 +5,7 @@ import java.util.List;
 
 public class CDType {
 
-    private List<Packing> items = new ArrayList<>();
+    private List<Packing> items = new ArrayList<Packing>();
 
     public void addItem(Packing packs) {
         items.add(packs);
