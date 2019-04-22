@@ -1,6 +1,6 @@
 package designpatterns.creational.singletone;
 
-public class SingletoneTest {
+public class SingletonTest {
     public static void main(String[] args) {
 
         A instance = A.getInstance();

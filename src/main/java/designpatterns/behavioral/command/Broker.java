@@ -6,7 +6,7 @@ import java.util.List;
 
 //Invoker Class
 public class Broker {
-    private List<Order> orderList = new ArrayList<>();
+    private List<Order> orderList = new ArrayList<Order>();
 
     public void takeOrder(Order order) {
         orderList.add(order);
