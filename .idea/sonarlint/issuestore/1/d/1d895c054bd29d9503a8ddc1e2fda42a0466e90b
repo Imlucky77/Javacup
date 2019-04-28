@@ -1,0 +1,21 @@
+
+lsquid:S3008"WRename this field "NUM_QUESTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³à‡
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(…ö‹ëúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ŒøÅ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¥ö§
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹Şš´
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰• Ğÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ¥÷
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èß£ıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+=squid:S1172"(Remove this unused method parameter "a".(š£–×
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿòŠ“ûÿÿÿÿ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ö±»ı
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(³ñæ

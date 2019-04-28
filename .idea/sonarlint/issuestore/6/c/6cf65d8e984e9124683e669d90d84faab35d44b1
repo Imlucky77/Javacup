@@ -1,0 +1,10 @@
+
+Esquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8¦ß•¨¤-
+hsquid:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.( Ú¯Î8¦ß•¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8¦ß•¨¤-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8¦ß•¨¤-
+dsquid:CallToDeprecatedMethod"0Remove this use of "readLine"; it is deprecated.(é–¥öûÿÿÿÿ8¦ß•¨¤-
+lsquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÇÅŠå8¦ß•¨¤-
+ksquid:S2259"HA "NullPointerException" could be thrown; "echoServer" is nullable here.(ò‘ž¶ùÿÿÿÿ8¦ß•¨¤-

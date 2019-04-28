@@ -1,0 +1,11 @@
+
+Dsquid:S1444"*Make this "public static INFO" field final(‹‡ßœÿÿÿÿÿ
+isquid:S3008"ORename this field "INFO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‡ßœÿÿÿÿÿ
+jsquid:S3008"PRename this field "ERROR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ º¹ûÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"PMake INFO a static final constant or non-public and provide accessors if needed.(‹‡ßœÿÿÿÿÿ
+Esquid:S1444"+Make this "public static ERROR" field final(­ º¹ûÿÿÿÿ
+esquid:S3008"PRename this field "DEBUG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¹¢µ
+‚"squid:ClassVariableVisibilityCheck"QMake ERROR a static final constant or non-public and provide accessors if needed.(­ º¹ûÿÿÿÿ
+}"squid:ClassVariableVisibilityCheck"QMake DEBUG a static final constant or non-public and provide accessors if needed.(Ö¹¢µ
+@squid:S1444"+Make this "public static DEBUG" field final(Ö¹¢µ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(í¡êÈ

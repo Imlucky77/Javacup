@@ -1,0 +1,34 @@
+
+7squid:S2178"Correct this "&" to "&&".(–’Üé8›’Ÿ¨¤-
+<squid:S2178"Correct this "&" to "&&".(õƒÛŸøÿÿÿÿ8›’Ÿ¨¤-
+<squid:S2178 "Correct this "&" to "&&".(Á¨º¡ùÿÿÿÿ8›’Ÿ¨¤-
+<squid:S2178#"Correct this "&" to "&&".(ƒºÉùúÿÿÿÿ8›’Ÿ¨¤-
+<squid:S2178%"Correct this "&" to "&&".(œžòÃüÿÿÿÿ8›’Ÿ¨¤-
+<squid:S2178'"Correct this "&" to "&&".(’øÑ¬úÿÿÿÿ8›’Ÿ¨¤-
+osquid:S1192"LDefine a constant instead of duplicating this literal " is largest" 3 times.(Ã¥ÑŠøÿÿÿÿ8›’Ÿ¨¤-
+psquid:S1192$"MDefine a constant instead of duplicating this literal " is smallest" 3 times.(œù›ªüÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(í î÷üÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª€ïŒúÿÿÿÿ8›’Ÿ¨¤-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(µ”¼¶8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜–ÍÙøÿÿÿÿ8›’Ÿ¨¤-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÂ”ì8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ€ž—úÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¥ÑŠøÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂãÏ¡úÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(£Åàûÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(œù›ªüÿÿÿÿ8›’Ÿ¨¤-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ñš°òþÿÿÿÿ8›’Ÿ¨¤-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(†öàï8›’Ÿ¨¤-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ýü¬Ò8›’Ÿ¨¤-

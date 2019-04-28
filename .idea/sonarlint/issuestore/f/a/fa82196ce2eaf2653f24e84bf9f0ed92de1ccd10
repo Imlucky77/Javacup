@@ -1,0 +1,14 @@
+
+Esquid:S1444"+Make this "public static input" field final(âÆüûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Ì¾üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿõ¥œıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÖ•”ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¢¬•ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÛ¿¿üÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"QMake input a static final constant or non-public and provide accessors if needed.(âÆüûÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İúÑˆúÿÿÿÿ

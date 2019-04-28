@@ -1,0 +1,36 @@
+
+[squid:S1192"FDefine a constant instead of duplicating this literal "hello" 3 times.(âÜ€­
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î”ï“ûÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦Éé
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÒíÀ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤´¬ª
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰…‡¢ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(šÇ…š
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸Íœ‘
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß¥‘÷ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÏÛÏ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¾°(
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(­×Ýæ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶í£ðüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(»·Ñöøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù²Ö˜úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(„ÃÂÒ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù²Ö˜úÿÿÿÿ
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ž÷ªúÿÿÿÿ
+5squid:S2129" Remove this "String" constructor(âÜ€­

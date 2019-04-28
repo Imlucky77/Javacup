@@ -1,0 +1,7 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8¬é˜¨¤-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿöş8¬é˜¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(û‚Õúüÿÿÿÿ8¬é˜¨¤-
+psquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8¬é˜¨¤-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×é”¹8¬é˜¨¤-

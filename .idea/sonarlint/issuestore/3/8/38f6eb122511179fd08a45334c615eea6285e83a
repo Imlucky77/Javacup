@@ -1,0 +1,9 @@
+
+dsquid:S3008"ORename this field "TERM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûã¬É
+?squid:S1444"*Make this "public static TERM" field final(ûã¬É
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ô‘ùÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ıÜ
+|"squid:ClassVariableVisibilityCheck"PMake TERM a static final constant or non-public and provide accessors if needed.(ûã¬É
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡•ÃØ

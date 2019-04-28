@@ -1,0 +1,17 @@
+
+esquid:S1192"GDefine a constant instead of duplicating this literal "Yellow" 3 times.(½çÃ½8¾ ¥¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì¢’ ùÿÿÿÿ8¾ ¥¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Øéá¼ùÿÿÿÿ8¾ ¥¨¤-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ì•«Éøÿÿÿÿ8¾ ¥¨¤-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ì¹º¹þÿÿÿÿ8¾ ¥¨¤-
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Œ¨À’8¾ ¥¨¤-
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.(„Ž‰Ìûÿÿÿÿ8¾ ¥¨¤-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¾ ¥¨¤-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú›ˆ§ùÿÿÿÿ8¾ ¥¨¤-

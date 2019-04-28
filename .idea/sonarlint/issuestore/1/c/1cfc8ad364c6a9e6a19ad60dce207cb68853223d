@@ -1,0 +1,19 @@
+
+3squid:S2178"Correct this "&" to "&&".(ë°Ê¹üÿÿÿÿ
+3squid:S2178"Correct this "|" to "||".(»ÚÎÀùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž¬ýÌûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ÀŸ±
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êèë®ýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë°Ê¹üÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ˜æˆ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ÚÎÀùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(öä•âúÿÿÿÿ
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬Ç‡·
+Csquid:S1940")Use the opposite operator ("<=") instead.(öä•âúÿÿÿÿ

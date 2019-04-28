@@ -1,0 +1,24 @@
+
+msquid:S1192"SDefine a constant instead of duplicating this literal "%s%n%s: $%,.2f%n%n" 3 times.(¿ÀĞ«úÿÿÿÿ
+[squid:S1192"GDefine a constant instead of duplicating this literal "earned" 4 times.(•†§2
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(³½Æ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(•†§2
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ÀĞ«úÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(šè“øÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ïçÀùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µšéıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­´î¦ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(½š» 
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(íªÏ„şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(€½Ü­
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›½®½

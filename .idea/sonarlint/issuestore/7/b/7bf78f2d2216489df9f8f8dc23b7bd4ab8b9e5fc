@@ -1,0 +1,7 @@
+
+Msquid:S1068"*Remove this unused "amount" private field.(îþ÷ãûÿÿÿÿ8×Ã ¨¤-
+Usquid:S3972"7Move this "if" to a new line or add the missing "else".(²çšÁ8×Ã ¨¤-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(èßŠšúÿÿÿÿ8×Ã ¨¤-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²ã¦Úþÿÿÿÿ8×Ã ¨¤-
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ùÌŸ8×Ã ¨¤-

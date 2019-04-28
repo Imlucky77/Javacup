@@ -1,0 +1,19 @@
+
+—%squid:RedundantThrowsDeclarationCheck"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(Óþ²Ê
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘Ç»¯øÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¬ÿèøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Â¸­
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇŒ©©
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(›°øÊþÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ñËæ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(µƒ·
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ýô¤
+;squid:S1481"&Remove this unused "a" local variable.(®š‹á
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¥…ˆ
