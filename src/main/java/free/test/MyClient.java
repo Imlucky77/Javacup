@@ -1,4 +1,4 @@
-package free;
+package free.test;
 
 import java.io.DataOutputStream;
 import java.net.Socket;

@@ -1,8 +1,0 @@
-
-msquid:S2095
-"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(¯÷®³þÿÿÿÿ8§¨–¨¤-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡“úãúÿÿÿÿ8§¨–¨¤-
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8§¨–¨¤-
-Gsquid:S1905")Remove this unnecessary cast to "String".(Óúþ…8§¨–¨¤-

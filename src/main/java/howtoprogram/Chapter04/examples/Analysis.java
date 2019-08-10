@@ -14,7 +14,7 @@ public class Analysis {
             System.out.print("Enter result (1 = pass, 2 = fail): ");
             int result = input.nextInt();
 
-            // Was corrected for exercise 4.24
+            // Was corrected for testexercise 4.24
             while (result != 1 && result != 2) {
                 System.out.print("Please enter correct result(1 or 2): ");
                 result = input.nextInt();

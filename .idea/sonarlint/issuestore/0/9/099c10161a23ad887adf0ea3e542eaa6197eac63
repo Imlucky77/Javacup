@@ -1,12 +1,12 @@
 
-isquid:S1871
-"KThis branch's code block is the same as the block for the branch on line 8.(ûÚã€8Ð“¨¤-
-jsquid:S1871"LThis branch's code block is the same as the block for the branch on line 14.(è‘8Ð“¨¤-
-V
-squid:S106	"9Replace this use of System.out or System.err by a logger.(³»Àñ8Ð“¨¤-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(³»Àñ8Ð“¨¤-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(šûÂæýÿÿÿÿ8Ð“¨¤-
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(šûÂæýÿÿÿÿ8Ð“¨¤-
+V
+squid:S106	"9Replace this use of System.out or System.err by a logger.(³»Àñ8Ð“¨¤-
+isquid:S1871
+"KThis branch's code block is the same as the block for the branch on line 8.(ûÚã€8Ð“¨¤-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³»Àñ8Ð“¨¤-
+jsquid:S1871"LThis branch's code block is the same as the block for the branch on line 14.(è‘8Ð“¨¤-
