@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Javacup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/BiFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Predicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/CollectionInterface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/ArrayListDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/ArrayListExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/RemoveIfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/LinkedListDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapInterface.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/HashMapDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/linkedhashmap/LinkedHashMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/TreeMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/MapExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/HashSetDiagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/linkedhashset/LinkedHashSet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/TreeSetDiagram.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JUnitAndJava8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnitAndJava8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,11 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            <state relative-caret-position="340">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -104,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/quera/match/StreamAnimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/javacup/projects/Project1.java" />
         <option value="$PROJECT_DIR$/src/main/java/java11/MapMerge.java" />
@@ -155,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/main/java/coderstea/Supplier.java" />
         <option value="$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -409,6 +388,7 @@
       <workItem from="1565423070247" duration="222000" />
       <workItem from="1611649306482" duration="4018000" />
       <workItem from="1611986829668" duration="17478000" />
+      <workItem from="1612163521628" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="convert source file java to maven">
       <created>1555935263337</created>
@@ -452,7 +432,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612163255418</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add .gitignore file">
+      <created>1612163574622</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612163574622</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add .gitignore file">
+      <created>1612163585855</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612163585856</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -488,7 +482,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167415000" />
+    <option name="totallyTimeSpent" value="167762000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -501,8 +495,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.17549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.17776097" />
       <window_info id="Structure" order="1" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -635,7 +630,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/free/test/CreateNewFile.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/free/test/StringClass.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/time/MainTime.java" />
-    <entry file="file://$PROJECT_DIR$/.gitignore" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
@@ -737,8 +731,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        <state relative-caret-position="340">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>

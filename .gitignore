@@ -1,0 +1,14 @@
+# Maven
+**/target/
+*.xml.versionsBackup
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Netbeans
+nbactions.xml
+
+# KDE
+.directory
