@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javacup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/BiFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coderstea/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/CollectionInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/ArrayListDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/ArrayListExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/arrayList/RemoveIfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/list/linkedlist/LinkedListDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/MapInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/hashmap/HashMapDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/linkedhashmap/LinkedHashMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/map/treemap/TreeMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/MapExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/hashset/HashSetDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/linkedhashset/LinkedHashSet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/collections/set/treeset/TreeSetDiagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JUnitAndJava8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JUnitAndJava8.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="148" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Javacup" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>assertE</find>
+      <find>assertEquals</find>
+      <find>tar</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/quera/RepeatInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/match/StreamAnimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javacup/projects/Project1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java11/MapMerge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java11/TestOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java11/BigDecimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java11/Operation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/Programmer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/Programmer_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/CompleteNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/testexercise/TestCompleteNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/TestCompleteNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/CompleteNumber_02.java" />
+        <option value="$PROJECT_DIR$/src/test/java/quera/testexercise/CompleteNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/exercise/RepeatInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/DifferenceLomBok.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/howtoprogram/Chapter05/exercises/exercise_13/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/EmptyOrNull.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/LambdaJavacup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/java8/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/java8/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/java8/LambdaJavacup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/JvmWithoutCheckedExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/TestCounter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/unittest/TestCounter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/Counter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/PrimitiveObsession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/PrimitiveObsession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/Continent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/cITY.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/withOutPrimitiveObsession.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/test/java/unittest/HashMapVsHashTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/StringClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/Encapsulation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/CharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/test/CreateNewFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/free/javase/Question_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/Consumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/Pridicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/Predicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/Function.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/BiFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/Supplier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Javacup" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderstea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HOTFIX_customHotfixCommitMessage_text" value="Tagging hotfix %name%" />
+    <property name="RELEASE_customTagCommitMessage_text" value="Tagging version %name%" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612162041374" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/hadi-codec-safir/hadi-codec-safir" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="java11" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Javacup\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GroupingBy">
+    <configuration name="BiFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderstea.BiFunction" />
+      <module name="JUnitAndJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coderstea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderstea.Function" />
+      <module name="JUnitAndJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coderstea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupingBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderstea.GroupingBy" />
+      <module name="JUnitAndJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coderstea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderstea.Predicate" />
+      <module name="JUnitAndJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coderstea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Supplier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coderstea.Supplier" />
+      <module name="JUnitAndJava8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coderstea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupingBy" />
+        <item itemvalue="Application.Supplier" />
+        <item itemvalue="Application.BiFunction" />
+        <item itemvalue="Application.Function" />
+        <item itemvalue="Application.Predicate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="" />
+      <created>1555763588962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555763588962</updated>
+      <workItem from="1555763597669" duration="1833000" />
+      <workItem from="1555930213208" duration="615000" />
+      <workItem from="1555935025695" duration="2879000" />
+      <workItem from="1555938972967" duration="596000" />
+      <workItem from="1555993738713" duration="15532000" />
+      <workItem from="1556079606419" duration="1215000" />
+      <workItem from="1556174954353" duration="3074000" />
+      <workItem from="1556337655799" duration="1176000" />
+      <workItem from="1556348488570" duration="652000" />
+      <workItem from="1556425003950" duration="3051000" />
+      <workItem from="1556440077876" duration="6424000" />
+      <workItem from="1556518411787" duration="8093000" />
+      <workItem from="1556526735756" duration="6656000" />
+      <workItem from="1556539111563" duration="4159000" />
+      <workItem from="1556597613932" duration="32233000" />
+      <workItem from="1556772398252" duration="573000" />
+      <workItem from="1556944877299" duration="1708000" />
+      <workItem from="1556959872230" duration="124000" />
+      <workItem from="1556960062009" duration="5132000" />
+      <workItem from="1557042736297" duration="2781000" />
+      <workItem from="1557050682348" duration="1745000" />
+      <workItem from="1557052489168" duration="843000" />
+      <workItem from="1557053386155" duration="711000" />
+      <workItem from="1557054152118" duration="2883000" />
+      <workItem from="1557125796949" duration="1837000" />
+      <workItem from="1557203006186" duration="3853000" />
+      <workItem from="1557313224338" duration="4848000" />
+      <workItem from="1557384818178" duration="2375000" />
+      <workItem from="1557563519865" duration="732000" />
+      <workItem from="1557635100594" duration="1180000" />
+      <workItem from="1557720873494" duration="1163000" />
+      <workItem from="1557807802759" duration="615000" />
+      <workItem from="1558243459936" duration="324000" />
+      <workItem from="1558244044903" duration="2080000" />
+      <workItem from="1558264774776" duration="606000" />
+      <workItem from="1558777459160" duration="1196000" />
+      <workItem from="1558783607314" duration="28000" />
+      <workItem from="1558783807275" duration="427000" />
+      <workItem from="1558784280439" duration="596000" />
+      <workItem from="1559130911154" duration="675000" />
+      <workItem from="1560151367178" duration="3484000" />
+      <workItem from="1560239764683" duration="1379000" />
+      <workItem from="1560753751154" duration="4386000" />
+      <workItem from="1562066241260" duration="1214000" />
+      <workItem from="1565076885294" duration="7548000" />
+      <workItem from="1565423070247" duration="222000" />
+      <workItem from="1611649306482" duration="4018000" />
+      <workItem from="1611986829668" duration="17478000" />
+    </task>
+    <task id="LOCAL-00001" summary="convert source file java to maven">
+      <created>1555935263337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555935263337</updated>
+    </task>
+    <task id="LOCAL-00002" summary="convert source file java to maven(pom.xml)">
+      <created>1555935655812</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555935655813</updated>
+    </task>
+    <task id="LOCAL-00003" summary="convert source file java to maven(pom.xml)-v1">
+      <created>1555936709365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555936709365</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add unit test for checking classes">
+      <created>1556179394951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556179394951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add .gitignore file">
+      <created>1556445173130</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556445173130</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HashMapVsHashTree_whenInsertNullInHashMap_thenInsertsNull - 2019.05.05 at 12h 39m 42s.xml">
+      <configuration name="HashMapVsHashTree.whenInsertNullInHashMap_thenInsertsNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_whenInsertNullInTreeMap_thenException - 2019.05.05 at 12h 40m 19s.xml">
+      <configuration name="HashMapVsHashTree.whenInsertNullInTreeMap_thenException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_whenInsertNullInTreeMap_thenException - 2019.05.05 at 12h 40m 40s.xml">
+      <configuration name="HashMapVsHashTree.whenInsertNullInTreeMap_thenException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_whenInsertNullInTreeMap_thenException - 2019.05.05 at 12h 46m 35s.xml">
+      <configuration name="HashMapVsHashTree.whenInsertNullInTreeMap_thenException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique - 2019.05.05 at 12h 59m 37s.xml">
+      <configuration name="HashMapVsHashTree.givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique - 2019.05.05 at 13h 00m 58s.xml">
+      <configuration name="HashMapVsHashTree.givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashMapVsHashTree_givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique - 2019.05.05 at 14h 36m 50s.xml">
+      <configuration name="HashMapVsHashTree.givenHashMapAndTreeMap_whenputDuplicates_thenOnlyUnique" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCounter - 2019.05.08 at 17h 35m 50s.xml">
+      <configuration name="TestCounter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCounter - 2019.05.08 at 17h 39m 19s.xml">
+      <configuration name="TestCounter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestCounter - 2019.05.08 at 17h 40m 45s.xml">
+      <configuration name="TestCounter" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167297000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.17549168" />
+      <window_info id="Structure" order="1" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.497545" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43371522" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32569557" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.62193125" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5015129" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32569557" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32569557" />
+      <window_info anchor="bottom" id="SonarQube" order="14" sideWeight="0.49848714" weight="0.43698853" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.290469" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="convert source file java to maven" />
+    <MESSAGE value="convert source file java to maven(pom.xml)" />
+    <MESSAGE value="convert source file java to maven(pom.xml)-v1" />
+    <MESSAGE value="add unit test for checking classes" />
+    <MESSAGE value="add .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore file" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java</url>
+          <line>21</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/java8/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/TestCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/unittest/TestCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MyClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MyClientRealTime.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MyServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MyServerRealTime.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/Nilin.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/SMTPClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/echo3.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/EmptyOrNull.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/JvmWithoutCheckedExceptions.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/Counter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/City.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/Continent.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/PrimitiveObsession.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/primitiveobsession/withOutPrimitiveObsession.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/Compare.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MainStatic.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/unittest/HashMapVsHashTree.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/unittest/MathCheckerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/unittest/StringUtilTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java11/MapMerge.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/java11/Operation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/LinkedHashMapExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/time/Time.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/unittest/MathChecker.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/unittest/StringUtil.java" />
+    <entry file="file://$PROJECT_DIR$/file.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/file.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/tmp/file.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/CreateNewFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/StringClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/time/MainTime.java" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/CharTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MainApp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/Encapsulation.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/test/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/javase/InstanceOfExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javacup/projects/Project1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/free/javase/Question_1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/Supplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="777" column="57" selection-start-line="777" selection-start-column="47" selection-end-line="777" selection-end-column="57" />
+          <folding>
+            <element signature="e#33990#33991#0" expanded="true" />
+            <element signature="e#34045#34046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Javacup</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
