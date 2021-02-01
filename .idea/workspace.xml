@@ -66,26 +66,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/PartitioningBy.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -119,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/quera/RepeatInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/quera/match/StreamAnimal.java" />
         <option value="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/javacup/projects/Project1.java" />
@@ -170,6 +154,7 @@
         <option value="$PROJECT_DIR$/src/main/java/coderstea/BiFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/coderstea/Supplier.java" />
         <option value="$PROJECT_DIR$/src/main/java/coderstea/GroupingBy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java" />
       </list>
     </option>
   </component>
@@ -239,7 +224,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="coderstea" type="462c0819:PsiDirectoryNode" />
+              <item name="java8inaction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="java8inaction" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1556445173130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="exercise for Java Collections with flowchart">
+      <created>1612163255418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612163255418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -487,7 +488,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167297000" />
+    <option name="totallyTimeSpent" value="167415000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -500,9 +501,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.17549168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.17549168" />
       <window_info id="Structure" order="1" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -602,7 +602,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/free/java8/Student.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/free/test/TestCounter.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/unittest/TestCounter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/free/test/MyClient.java" />
@@ -733,6 +732,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/java8inaction/chapter1/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
         </state>
       </provider>
     </entry>
