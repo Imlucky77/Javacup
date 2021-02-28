@@ -36,7 +36,7 @@ public class Operation {
         );
 
         // without merge()
-        HashMap<String, BigDecimal> balanace = new HashMap<>();
+        HashMap<String, BigDecimal> balance = new HashMap<>();
         /*
         operations.forEach(op -> {
             String key = op.getAccNo();
@@ -48,9 +48,9 @@ public class Operation {
         /*operations.forEach(op -> balanace.merge(op.getAccNo(), op.getAmount(), (soFar, amount) -> soFar.add(amount)));*/
 
         // with merge() and method reference
-        operations.forEach(op -> balanace.merge(op.getAccNo(), op.getAmount(), BigDecimal::add));
+        operations.forEach(op -> balance.merge(op.getAccNo(), op.getAmount(), BigDecimal::add));
 
-        System.out.println(balanace);
+        System.out.println(balance);
     }
 }
 
