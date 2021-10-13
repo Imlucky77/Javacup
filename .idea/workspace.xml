@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/concurency/ConcurrencyRunTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/concurency/JoinClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/concurency/ProducerConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/concurency/RunnableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/concurency/ThreadClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/javase/ValueOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Javacup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Javacup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,13 +40,110 @@
     <favorites_list name="Javacup" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/StaticFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/Instance1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/ValueOf.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Javacup.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -71,21 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/Dimensions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/Motherboard.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/BreakVSContinue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/Case.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/PC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Room.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Home.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Wall.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Celling.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Bed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Bedroom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Lamp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/EnhancedPlayer.java" />
@@ -122,6 +203,21 @@
         <option value="$PROJECT_DIR$/src/main/java/basicjava/concurency/Producerer.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/concurency/Consumerer.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/concurency/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/SerializationExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/serializable/SerializationExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/serializable/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/Animals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/StaticBlockExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/InterfaceExam.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/StaticFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/reflection/A.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/reflection/Instance1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/reflection/Method.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/ValueOf.java" />
       </list>
     </option>
   </component>
@@ -158,6 +254,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,11 +288,19 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="basicjava" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basicjava" type="462c0819:PsiDirectoryNode" />
+              <item name="javase" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,8 +309,8 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615389484122" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/hadi-codec-safir/hadi-codec-safir" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1630564056098" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/imlucky" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -236,13 +341,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProducerConsumer">
-    <configuration name="ConcurrencyRunTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.concurency.ConcurrencyRunTests" />
+  <component name="RunManager" selected="Application.ValueOf">
+    <configuration name="ImplementStaticFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.ImplementStaticFunc" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.concurency.*" />
+          <option name="PATTERN" value="basicjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.concurency.JoinClass" />
+    <configuration name="Instance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.reflection.Instance1" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.concurency.*" />
+          <option name="PATTERN" value="basicjava.reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,12 +368,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.arrays.Main" />
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.reflection.Method" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.arrays.*" />
+          <option name="PATTERN" value="basicjava.reflection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,12 +381,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinElementChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.arrays.MinElementChallenge" />
+    <configuration name="StaticBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.javase.StaticBlockExample" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.arrays.*" />
+          <option name="PATTERN" value="basicjava.javase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,25 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.concurency.ProducerConsumer" />
+    <configuration name="ValueOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.javase.ValueOf" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.concurency.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.arrays.challenge.test" />
-      <module name="Javacup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicjava.arrays.challenge.*" />
+          <option name="PATTERN" value="basicjava.javase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,11 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProducerConsumer" />
-        <item itemvalue="Application.JoinClass" />
-        <item itemvalue="Application.ConcurrencyRunTests" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.MinElementChallenge" />
+        <item itemvalue="Application.ValueOf" />
+        <item itemvalue="Application.Method" />
+        <item itemvalue="Application.Instance1" />
+        <item itemvalue="Application.ImplementStaticFunc" />
+        <item itemvalue="Application.StaticBlockExample" />
       </list>
     </recent_temporary>
   </component>
@@ -398,6 +490,16 @@
       <workItem from="1615184597016" duration="1501000" />
       <workItem from="1615612330536" duration="6082000" />
       <workItem from="1615787269193" duration="1296000" />
+      <workItem from="1620621428426" duration="2457000" />
+      <workItem from="1621058560067" duration="582000" />
+      <workItem from="1621141560771" duration="3946000" />
+      <workItem from="1621398997979" duration="616000" />
+      <workItem from="1625410602986" duration="759000" />
+      <workItem from="1625463407259" duration="484000" />
+      <workItem from="1626342830323" duration="3236000" />
+      <workItem from="1626508212060" duration="4537000" />
+      <workItem from="1630563656645" duration="996000" />
+      <workItem from="1630729790406" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary="convert source file java to maven">
       <created>1555935263337</created>
@@ -448,7 +550,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614520168829</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="exercise for learn Reflection">
+      <created>1626508402712</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626508402712</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -484,7 +593,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289955000" />
+    <option name="totallyTimeSpent" value="311627000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -497,8 +606,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.1732224" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.19591528" />
       <window_info id="Structure" order="1" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -507,8 +617,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5182724" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28641573" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5155483" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41080198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32569557" />
@@ -585,7 +695,8 @@
     <MESSAGE value="exercise for Collection with flowchart" />
     <MESSAGE value="exercise for Base Java" />
     <MESSAGE value="exercise for learn Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise for learn Polymorphism" />
+    <MESSAGE value="exercise for learn Reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise for learn Reflection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -746,126 +857,28 @@
           <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/Test.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/Animals.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/StaticBlockExample.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Bed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/composition/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Bedroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-          <folding>
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Lamp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/composition/challenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/encapsulation/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/encapsulation/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/encapsulation/EnhancedPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/BreakVSContinue.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/ReferencesAndObjects.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/Home.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/inheritence/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/inheritence/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/inheritence/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1131,13 +1144,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/concurency/Producerer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/concurency/Consumerer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/concurency/Main.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/concurency/ProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1145,6 +1151,135 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/serializable/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/serializable/SerializationExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#72#73#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/StaticBlockExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/StaticFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/Instance1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/reflection/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javacup.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/javase/ValueOf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
