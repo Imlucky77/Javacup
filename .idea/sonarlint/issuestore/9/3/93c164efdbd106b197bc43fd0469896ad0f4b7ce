@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡œ£Ñ8äú¤ «/
+d
+java:S2095"GUse try-with-resources or close this "ZooKeeper" in a "finally" clause.(÷Ÿßı8¤´ «/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ‘¤¨8ŒŸ— «/

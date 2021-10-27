@@ -1,0 +1,12 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ƒ¾ğÌª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8«ÚõÌª/
+G
+java:S1181"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8ÿøôÌª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­£ôªùÿÿÿÿ8ìûÌª/
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(öÑâŠ8Œğ÷Ìª/
+C
+java:S2129"!Remove this "Integer" constructor(ÑÖéûÿÿÿÿ8¦øÌª/
+Q
+java:S3740"/Provide the parametrized type for this generic.(óÌçîşÿÿÿÿ8ÿøôÌª/
