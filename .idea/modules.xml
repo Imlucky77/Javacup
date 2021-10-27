@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JUnitAndJava8.iml" filepath="$PROJECT_DIR$/JUnitAndJava8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacup.iml" filepath="$PROJECT_DIR$/Javacup.iml" />
     </modules>
   </component>
 </project>

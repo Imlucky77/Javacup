@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Javacup" />
         <module name="JUnitAndJava8" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Javacup" target="8" />
       <module name="JUnitAndJava8" target="8" />
     </bytecodeTargetLevel>
   </component>
