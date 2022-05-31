@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="exercise for cherry-pick command">
-      <change beforePath="$PROJECT_DIR$/Javacup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Javacup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/free/test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/free/test/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/java/Day12/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/java/Day12/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,28 +47,59 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javacup.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/TestCherry.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="119">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Comparable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -94,14 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/EnhancedPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/inheritence/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/inheritence/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/challenge/Printer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/encapsulation/challenge/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/java11/Operation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/basicjava/polymorphism/Movie.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/polymorphism/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/polymorphism/challenge/Ford.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/polymorphism/challenge/FORRRRD.java" />
@@ -145,6 +178,14 @@
         <option value="$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/basicjava/javase/ValueOf.java" />
         <option value="$PROJECT_DIR$/src/main/java/java8/TestCherry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/Comparable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java" />
       </list>
     </option>
   </component>
@@ -192,6 +233,27 @@
               <item name="Javacup" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javacup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javacup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tosan" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -206,10 +268,10 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1635323151566" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/imlucky" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646829505026" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SpringBootApacheKafkaHelloWorld" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -238,26 +300,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ValueOf">
-    <configuration name="ImplementStaticFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.ImplementStaticFunc" />
+  <component name="RunManager" selected="Application.TrYCatchFinally">
+    <configuration name="ArrayLocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.arrays.ArrayLocation" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Instance1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.reflection.Instance1" />
-      <module name="Javacup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basicjava.reflection.*" />
+          <option name="PATTERN" value="basicjava.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +327,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticBlockExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.javase.StaticBlockExample" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tosan.Person" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.javase.*" />
+          <option name="PATTERN" value="tosan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrYCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tosan.TrYCatchFinally" />
+      <module name="Javacup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tosan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,60 +366,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="Javacup" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="Javacup" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TrYCatchFinally" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.ArrayLocation" />
         <item itemvalue="Application.ValueOf" />
         <item itemvalue="Application.Method" />
-        <item itemvalue="Application.Instance1" />
-        <item itemvalue="Application.ImplementStaticFunc" />
-        <item itemvalue="Application.StaticBlockExample" />
       </list>
     </recent_temporary>
   </component>
@@ -444,6 +459,14 @@
       <workItem from="1626508212060" duration="4537000" />
       <workItem from="1630563656645" duration="996000" />
       <workItem from="1630729790406" duration="932000" />
+      <workItem from="1644240283360" duration="1105000" />
+      <workItem from="1644825479788" duration="224000" />
+      <workItem from="1644828146760" duration="202000" />
+      <workItem from="1645959580131" duration="4387000" />
+      <workItem from="1646454212282" duration="578000" />
+      <workItem from="1647503467827" duration="583000" />
+      <workItem from="1652704872270" duration="316000" />
+      <workItem from="1653546037930" duration="626000" />
     </task>
     <task id="LOCAL-00001" summary="convert source file java to maven">
       <created>1555935263337</created>
@@ -544,7 +567,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="312130000" />
+    <option name="totallyTimeSpent" value="320151000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -557,9 +580,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.2700454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49234694" visible="true" weight="0.30559757" />
       <window_info id="Structure" order="1" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -568,7 +590,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50765306" side_tool="true" weight="0.23524962" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5155483" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.28477904" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.41080198" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -831,50 +853,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/encapsulation/challenge/Printer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
-          <folding>
-            <element signature="e#1106#1107#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/encapsulation/challenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/Movie.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/java11/MapMerge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/java11/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="760" column="57" lean-forward="true" selection-start-line="760" selection-start-column="57" selection-end-line="760" selection-end-column="57" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/challenge/FORRRRD.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1178,16 +1156,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -1219,7 +1187,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/TestCherry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javacup.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1230,10 +1205,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javacup.iml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        <state relative-caret-position="391">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tosan/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
@@ -1294,6 +1319,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
