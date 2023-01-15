@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="exercise for cherry-pick command">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java" afterDir="false" />
+    <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="Summarize the change in less than 50 characters&#10;&#10;Because:&#10;-Explain the reasons you made this change&#10;-Make a new bullet for each reason&#10;-Each line should be under 72 characters&#10;&#10;Explain exactly what was done in this commit with more depth than the &#10;50 character subject line. Remember to wrap at 72 characters!&#10;&#10;Include any additional notes, relevant links, or co-authors.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/SubCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/SubSubCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/equalsandhashcode/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/equalsandhashcode/MainEqualAndHashcode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basicjava/ZookeeperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/free/test/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/free/test/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/java/Day12/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/java/Day12/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quera/match/RepeatInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tosan/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tosan/Person.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,71 +39,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="Javacup" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/arrays/ArrayLocation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/InterviewTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/TrYCatchFinally.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/tosan/ComparableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -125,12 +58,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="java8" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,11 +122,14 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -212,6 +148,7 @@
     <option name="width" value="693" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectId" id="29v98cVwI2GUqI86nzLyzJfg8Jo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -262,20 +199,16 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="HOTFIX_customHotfixCommitMessage_text" value="Tagging hotfix %name%" />
-    <property name="RELEASE_customTagCommitMessage_text" value="Tagging version %name%" />
-    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1646829505026" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/SpringBootApacheKafkaHelloWorld" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Downloads/demo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\PC\Javacup\src\test\java" />
@@ -288,25 +221,13 @@
       <recent name="java11" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TrYCatchFinally">
-    <configuration name="ArrayLocation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.arrays.ArrayLocation" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.cons.MainClass" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.arrays.*" />
+          <option name="PATTERN" value="basicjava.cons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,12 +235,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.reflection.Method" />
+    <configuration name="MainEqualAndHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basicjava.equalsandhashcode.MainEqualAndHashcode" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.reflection.*" />
+          <option name="PATTERN" value="basicjava.equalsandhashcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,25 +261,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrYCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tosan.TrYCatchFinally" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Javacup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tosan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.javase.ValueOf" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="free.Test" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.javase.*" />
+          <option name="PATTERN" value="free.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,14 +283,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TrYCatchFinally" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Person" />
-        <item itemvalue="Application.ArrayLocation" />
-        <item itemvalue="Application.ValueOf" />
-        <item itemvalue="Application.Method" />
+        <item itemvalue="Application.MainEqualAndHashcode" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -467,6 +383,17 @@
       <workItem from="1647503467827" duration="583000" />
       <workItem from="1652704872270" duration="316000" />
       <workItem from="1653546037930" duration="626000" />
+      <workItem from="1654500255651" duration="1588000" />
+      <workItem from="1655195749692" duration="852000" />
+      <workItem from="1655364892099" duration="2329000" />
+      <workItem from="1655711029647" duration="115000" />
+      <workItem from="1655712706150" duration="3214000" />
+      <workItem from="1656576240771" duration="116000" />
+      <workItem from="1665399740944" duration="2223000" />
+      <workItem from="1665471732423" duration="6677000" />
+      <workItem from="1665571233222" duration="1896000" />
+      <workItem from="1665903059534" duration="4695000" />
+      <workItem from="1673692349715" duration="4323000" />
     </task>
     <task id="LOCAL-00001" summary="convert source file java to maven">
       <created>1555935263337</created>
@@ -616,29 +543,14 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -678,175 +590,146 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SwapColumn/SwapColumnAndTab.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SwapColumn/AnotherFile.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SwapColumn/ReadFileLineByLineUsingFiles.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SwapColumn/JavaEightFile.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/SwapColumn/Test.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D01/Program.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D01/Program.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D01/Program.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D03/SummerProgram.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D03/SummerProgram.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D03/SummerProgram.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D04/Parent.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D04/Parent.java</url>
           <line>3</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D05/Generator.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D05/Generator.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D06/Operation.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D06/Help.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D06/Operation.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D08/Swap.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D08/Swap.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D12/Runnak.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D12/Runnak.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D12/Runnak.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/dastgarmi/D12/Runnak.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/timeTest/scheduleTest.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/basicjava/arrays/challenge/Main.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/Test.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/Animals.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/basicjava/javase/StaticBlockExample.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
@@ -888,7 +771,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/challenge/Holden.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/challenge/Ford.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Object.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="55" column="57" lean-forward="true" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
@@ -970,7 +853,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Arrays.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-162">
           <caret line="3282" column="24" selection-start-line="3282" selection-start-column="24" selection-end-line="3282" selection-end-column="24" />
@@ -1021,7 +904,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Thread.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="745" column="16" selection-start-line="745" selection-start-column="16" selection-end-line="745" selection-end-column="16" />
@@ -1248,7 +1131,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Comparable.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1224">
           <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
