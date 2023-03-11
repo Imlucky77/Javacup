@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee2389cf-0a44-47e1-8909-0b5965b3c346" name="Default Changelist" comment="Summarize the change in less than 50 characters&#10;&#10;Because:&#10;-Explain the reasons you made this change&#10;-Make a new bullet for each reason&#10;-Each line should be under 72 characters&#10;&#10;Explain exactly what was done in this commit with more depth than the &#10;50 character subject line. Remember to wrap at 72 characters!&#10;&#10;Include any additional notes, relevant links, or co-authors.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/SubCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/cons/SubSubCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/equalsandhashcode/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicjava/equalsandhashcode/MainEqualAndHashcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/Compile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/builder/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/builder/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/builder/ManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/forTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/test/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Linkedin/test/Super.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/quera/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/task/ArrayOfSpeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b158f7123d5925a27e9e25c73ba6fc9ec3d68df" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tosan/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tosan/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,8 +208,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Downloads/demo&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pc/Downloads/batch&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -221,13 +225,13 @@
       <recent name="java11" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.cons.MainClass" />
+  <component name="RunManager" selected="Application.forTest">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedin.test.App" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.cons.*" />
+          <option name="PATTERN" value="Linkedin.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainEqualAndHashcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.equalsandhashcode.MainEqualAndHashcode" />
+    <configuration name="ArrayOfSpeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task.ArrayOfSpeed" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.equalsandhashcode.*" />
+          <option name="PATTERN" value="task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tosan.Person" />
+    <configuration name="Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedin.Builder" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tosan.*" />
+          <option name="PATTERN" value="Linkedin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,19 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Javacup" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="free.Test" />
+    <configuration name="Compile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedin.Compile" />
       <module name="Javacup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="free.*" />
+          <option name="PATTERN" value="Linkedin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,13 +278,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="forTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linkedin.forTest" />
+      <module name="Javacup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linkedin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayOfSpeed" />
+      <item itemvalue="Application.Compile" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.Builder" />
+      <item itemvalue="Application.forTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.MainEqualAndHashcode" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.forTest" />
+        <item itemvalue="Application.ArrayOfSpeed" />
+        <item itemvalue="Application.Compile" />
+        <item itemvalue="Application.Builder" />
+        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +410,18 @@
       <workItem from="1665471732423" duration="6677000" />
       <workItem from="1665571233222" duration="1896000" />
       <workItem from="1665903059534" duration="4695000" />
-      <workItem from="1673692349715" duration="4323000" />
+      <workItem from="1673692349715" duration="4466000" />
+      <workItem from="1673936787060" duration="4046000" />
+      <workItem from="1674470100192" duration="578000" />
+      <workItem from="1675082935929" duration="1123000" />
+      <workItem from="1676370195713" duration="2288000" />
+      <workItem from="1676373098234" duration="1534000" />
+      <workItem from="1676533078088" duration="4354000" />
+      <workItem from="1676900981857" duration="3856000" />
+      <workItem from="1677304513161" duration="2463000" />
+      <workItem from="1678000642794" duration="3072000" />
+      <workItem from="1678169294548" duration="7737000" />
+      <workItem from="1678518958683" duration="583000" />
     </task>
     <task id="LOCAL-00001" summary="convert source file java to maven">
       <created>1555935263337</created>
@@ -732,8 +760,34 @@
           <line>8</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Linkedin/test/App.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Linkedin/forTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Linkedin/forTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/Linkedin/test/Super.java</url>
+          <line>3</line>
+          <properties field="index" class="Linkedin.test.Super" />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Javacup$forTest.ic" NAME="forTest Coverage Results" MODIFIED="1678172348358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Linkedin.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/basicjava/polymorphism/Main.java">
